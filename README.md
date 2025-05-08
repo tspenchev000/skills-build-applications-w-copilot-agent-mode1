@@ -7,6 +7,8 @@ _Build an application with GitHub Copilot agent mode in less than an hour._
 
 ## Welcome
 
+
+
 People love how GitHub Copilot helps them write code faster and with fewer errors.
 But what if GitHub could create a full stack application for your job role based on requirements
 written in natural language?
